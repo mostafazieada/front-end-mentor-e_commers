@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "fall limited edition sneakers",
+      "company": "sneakers company",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam fugiat est beatae quae, veniam facere qui debitis laborum ab itaque! Et vel tempora",
+      "price": 250,
+      "currency": "$",
+      "discount": 50,
+      "photos": [
+        "../public/image-product-1.jpg",
+        "../public/image-product-2.jpg",
+        "../public/image-product-3.jpg",
+        "../public/image-product-4.jpg"
+      ]
+    }
+  ]
+}
